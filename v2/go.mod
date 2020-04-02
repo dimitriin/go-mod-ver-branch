@@ -1,4 +1,4 @@
-module github.com/dimitriin/go-mod-ver-branch
+module github.com/dimitriin/go-mod-ver-branch/v2
 
 go 1.14
 
